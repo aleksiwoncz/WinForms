@@ -80,7 +80,10 @@ namespace WindowsFormsApp1
                     Wynik.Items.Add("The valid values are:");
                     Wynik.Items.Add("Z range 0 100");
                 }
-
+            }
+            else
+            {
+                Wynik.Items.Add("The given data was invalid");
             }
         }
     }

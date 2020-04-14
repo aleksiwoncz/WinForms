@@ -16,3 +16,21 @@ C:\Users\User\Source\Repos\Aleksandra_Iwończ_Zadanie1\WindowsFormsApp1\obj\Debu
 C:\Users\User\Source\Repos\Aleksandra_Iwończ_Zadanie1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\User\Source\Repos\Aleksandra_Iwończ_Zadanie1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\User\Source\Repos\Aleksandra_Iwończ_Zadanie1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Exercise8.resources
+C:\Users\User\Source\Repos\WinForms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Source\Repos\WinForms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Source\Repos\WinForms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Source\Repos\WinForms\WindowsFormsApp1\obj\Debug\Integral exercises.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\WinForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Exercise2.resources
+C:\Users\User\Source\Repos\WinForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Exercise1.resources
+C:\Users\User\Source\Repos\WinForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Exercise4.resources
+C:\Users\User\Source\Repos\WinForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Exercise7.resources
+C:\Users\User\Source\Repos\WinForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Exercise8.resources
+C:\Users\User\Source\Repos\WinForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Exercsie6.resources
+C:\Users\User\Source\Repos\WinForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Exercise5.resources
+C:\Users\User\Source\Repos\WinForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.IntegralMenu.resources
+C:\Users\User\Source\Repos\WinForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Source\Repos\WinForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Exercise3.resources
+C:\Users\User\Source\Repos\WinForms\WindowsFormsApp1\obj\Debug\Integral exercises.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\WinForms\WindowsFormsApp1\obj\Debug\Integral exercises.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\WinForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Source\Repos\WinForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
