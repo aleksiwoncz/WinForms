@@ -26,7 +26,7 @@ namespace WindowsFormsApp1
 
         private double findX(Random random)
         {
-            return random.Next(10, 100000);
+            return random.Next(0, 10000);
         }
 
         private double integralX(SingleCount exercise5, bool method, Func<double, double> fun, Random random)
@@ -69,8 +69,6 @@ namespace WindowsFormsApp1
                     {
                         local_x2 = integralX(exercise5, true, exercise5.FUNX2, random);
                         local_x3 = integralX(exercise5, true, exercise5.FUNX3, random);
-                        Wynik.Items.Add("Trapezoid method: " + local_x2);
-                        Wynik.Items.Add("Trapezoid method: " + local_x3);
 
                         if (local_x2 == local_x3)
                         {
@@ -80,6 +78,7 @@ namespace WindowsFormsApp1
                     }
                     if (!flag)
                     {
+                        Wynik.Items.Add("K: "+ K);
                         Wynik.Items.Add("No matches for Trapezoid method..");
                     }
 
@@ -98,6 +97,7 @@ namespace WindowsFormsApp1
                     }
                     if (!flag)
                     {
+                        Wynik.Items.Add("K: " + K);
                         Wynik.Items.Add("No matches for Rectangle method..");
                     }
                 }
